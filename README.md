@@ -45,7 +45,7 @@ The analysis used private production data with the following structure:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
